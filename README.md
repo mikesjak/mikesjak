@@ -21,6 +21,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
+- Editor - VSCode
+- OS - Linux, MacOS
 <br />
 
 ---
