@@ -17,15 +17,18 @@
 
 ### Languages and Tools:
 
-- C, C++, Python
-- HTML, CSS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
 ---
 
 [![Mikesjak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikesjak&theme=github_dark)](https://github.com/mikesjak/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 ---
 
 [twitter]: https://twitter.com/mikesjak
