@@ -24,7 +24,7 @@
 
 ---
 
-[![Mikesjak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikesjak)](https://github.com/mikesjak/github-readme-stats)
+[![Mikesjak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikesjak&theme=github_dark)](https://github.com/mikesjak/github-readme-stats)
 
 ---
 
