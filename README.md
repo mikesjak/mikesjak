@@ -2,9 +2,9 @@
 
 ## I'm a Student, Son, and Developer!!
 
-- 📚 I'm currently in my second semester at CTU FIT!
-- 🌱 I’m currently learning C, C++, Python
-- 🥅 2022 Goals: Make my first Open Source project
+- 📚  I'm currently in my second semester at CTU FIT!
+- 🌱  I’m currently learning C, C++, Python
+- 🥅  2022 Goals: Make my first Open Source project
 
 ### Connect with me:
 
@@ -20,10 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-- Editor - VSCode
-<br />
-- OS - Linux, MacOS
 <br />
 
 ---
