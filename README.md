@@ -18,13 +18,13 @@
 ### Languages and Tools:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
 ---
 
-[![Mikesjak's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mikesjak's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikesjak&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
