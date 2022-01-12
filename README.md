@@ -24,6 +24,15 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.mikesjak.vercel.app/api?username=mikesjak&show_icons=true&hide_border=true" />
+
+</details>
+
+---
+
 [twitter]: https://twitter.com/mikesjak
 [youtube]: https://www.youtube.com/channel/UCBNrdjR4b70gMnjh8_wSP7w
 [instagram]: https://www.instagram.com/kubamikesu/
