@@ -15,10 +15,20 @@
 
 <br />
 
+### My stats:
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikesjak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Mikesjak's github stats" /></a>  
+
+<br />
+<br />
+
 ### Languages and Tools:
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&layout=compact&theme=dark&hide_border=true" /></a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikesjak&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Mikesjak's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&layout=compact&theme=dark&hide_border=true" /></a> 
+<br />
+<br />
+
 
 
 ---
