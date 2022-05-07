@@ -18,10 +18,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670147.png?token=exp=1651851139~hmac=5aa9553ac74740243424ff5c635cafe7" />][youtube]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670151.png?token=exp=1651851059~hmac=7628bad75178fa11794b1da0d78e3095" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1651851124~hmac=9a78c2d4cf8145ed2b4c063866c86552" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="youtube.png" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="linkedin.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="instagram.png" />][instagram]
 
 <br />
 
