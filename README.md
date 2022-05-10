@@ -8,7 +8,7 @@
     <a href="https://github.com/mikesjak?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/mikesjak" alt="mikesjak"/></a> 
     <a href="https://github.com/mikesjak/mikesjak" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/mikesjak/mikesjak?label=Profile%20update&style=fflat-square&color=brightgreen"></a>
     <a href="https://www.codewars.com/users/mikesjak" target="_blank"><img height=20 alt="Profile Update" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png"></a>
-    <!--<img src="https://badges.pufler.dev/years/mikesjak" alt="Monthy commits"/> -->
+    <a href="https://www.hackerrank.com/jakubmikesak" target="_blank"><img height=20 alt="Profile Update" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"></a>
 </p> 
 <!--![](https://komarev.com/ghpvc/?username=mikesjak&color=74ec8b) >-->
 
