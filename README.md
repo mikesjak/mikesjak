@@ -12,7 +12,7 @@
 </p> 
 <!--![](https://komarev.com/ghpvc/?username=mikesjak&color=74ec8b) >-->
 
-- 📚  I'm currently in my second semester at CTU FIT!
+- 📚  I'm currently in my third semester at CTU FIT!
 - 🌱  I’m currently learning C, C++, Python
 - 🥅  2022 Goals: Make my first Open Source project
 
