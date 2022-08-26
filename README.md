@@ -6,14 +6,15 @@
     <img src="https://komarev.com/ghpvc/?username=mikesjak" alt="mikesjak"/>   
     <a href="https://github.com/mikesjak?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mikesjak?color=4C1&logo=github"></a>     
     <a href="https://github.com/mikesjak/mikesjak" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/mikesjak/mikesjak?label=Profile%20update&style=fflat-square&color=brightgreen"></a>
-    <a href="https://www.codewars.com/users/mikesjak" target="_blank"><img height=20 alt="Profile Update" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/codewars_button_icon_151901.png"></a>
     <a href="https://www.hackerrank.com/jakubmikesak" target="_blank"><img height=20 alt="Profile Update" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"></a>
+    <a href="https://www.codewars.com/users/mikesjak" target="_blank"><img height=20 alt="Profile Update" src="https://www.codewars.com/users/mikesjak/badges/micro"></a>
 </p> 
 <!--![](https://komarev.com/ghpvc/?username=mikesjak&color=74ec8b) >-->
 
 - 📚  I'm currently in my third semester at CTU FIT!
 - 🌱  I’m currently learning C, C++, Python
 - 🥅  2022 Goals: Make my first Open Source project
+- 🙋🏻‍♂️  Just created my own website, you can check it <a href="https://www.jakubmikes.cz">here</a>
 
 ### Connect with me:
 
