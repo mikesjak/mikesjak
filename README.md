@@ -6,10 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=mikesjak" alt="mikesjak"/>   
     <a href="https://github.com/mikesjak?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mikesjak?color=4C1&logo=github"></a>     
     <a href="https://github.com/mikesjak/mikesjak" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/mikesjak/mikesjak?label=Profile%20update&style=fflat-square&color=brightgreen"></a>
-    <a href="https://www.hackerrank.com/jakubmikesak" target="_blank"><img height=20 alt="Profile Update" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png"></a>
-    <a href="https://www.codewars.com/users/mikesjak" target="_blank"><img height=20 alt="Profile Update" src="https://www.codewars.com/users/mikesjak/badges/micro"></a>
+    <a href="[https://www.hackerrank.com/jakubmikesak](https://codeforces.com/profile/Mikykuba)" target="_blank"><img height=20 alt="Profile Update" src="https://img.shields.io/badge/Codeforces-profile-green"></a>
+    <a href="https://www.codewars.com/users/mikesjak" target="_blank"><img height=20 alt="Codewars" src="https://www.codewars.com/users/mikesjak/badges/micro"></a>
 </p> 
-<!--![](https://komarev.com/ghpvc/?username=mikesjak&color=74ec8b) >-->
 
 - 📚  I'm currently in my third semester at CTU FIT!
 - 🌱  I’m currently learning C, C++, Python
@@ -18,7 +17,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="YouTube" width="22px" src="youtube.png" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="linkedin.png" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="instagram.png" />][instagram]
