@@ -6,11 +6,10 @@
     <img src="https://komarev.com/ghpvc/?username=mikesjak" alt="mikesjak"/>   
     <a href="https://github.com/mikesjak?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mikesjak?color=4C1&logo=github"></a>     
     <a href="https://github.com/mikesjak/mikesjak" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/mikesjak/mikesjak?label=Profile%20update&style=fflat-square&color=brightgreen"></a>
-    <a href="https://codeforces.com/profile/Mikykuba" target="_blank"><img height=20 alt="Codeforces" src="https://img.shields.io/badge/Codeforces-profile-green"></a>
     <a href="https://www.codewars.com/users/mikesjak" target="_blank"><img height=20 alt="Codewars" src="https://www.codewars.com/users/mikesjak/badges/micro"></a>
 </p> 
 
-- 📚  I'm currently in my third semester at CTU FIT!
+- 📚  I'm currently in my fifth semester at CTU FIT!
 - 🌱  I’m currently learning C, C++, Python
 - 🥅  2022 Goals: Make my first Open Source project
 - 🙋🏻‍♂️  Just created my own website, you can check it <a href="https://www.jakubmikes.cz">here</a>
