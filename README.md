@@ -6,8 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=mikesjak" alt="mikesjak"/>   
     <a href="https://github.com/mikesjak?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mikesjak?color=4C1&logo=github"></a>     
     <a href="https://github.com/mikesjak/mikesjak" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/mikesjak/mikesjak?label=Profile%20update&style=fflat-square&color=brightgreen"></a>
-    <a href="https://www.codewars.com/users/mikesjak" target="_blank"><img height=20 alt="Codewars" src="https://www.codewars.com/users/mikesjak/badges/micro"></a>
-</p> 
 
 - 📚  I'm currently in my fifth semester at CTU FIT!
 - 🌱  I’m currently learning C, C++, Python
@@ -22,13 +20,7 @@
 
 <br />
 
-### My stats:
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mikesjak&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Mikesjak's github stats" /></a>  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikesjak&theme=tokyonight" alt="Mikesjak's github streak" /></a>  
-<br />
-
-### Languages and Tools:
+### Languages:
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikesjak&layout=compact&theme=tokyonight&hide_border=true" /></a> 
 
