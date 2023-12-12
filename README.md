@@ -8,9 +8,9 @@
     <a href="https://github.com/mikesjak/mikesjak" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/mikesjak/mikesjak?label=Profile%20update&style=fflat-square&color=brightgreen"></a>
 
 - 📚  I'm currently in my fifth semester at CTU FIT!
-- 🌱  I’m currently learning C, C++, Python
-- 🥅  2022 Goals: Make my first Open Source project
-- 🙋🏻‍♂️  Just created my own website, you can check it <a href="https://www.jakubmikes.cz">here</a>
+- 🌱  I’m currently learning C, C++, Python, Swift
+- 🥅  2024 Goals: Get my bachelors degree
+- 🙋🏻‍♂️  You can check my website <a href="https://www.jakubmikes.cz">here</a>
 
 ### Connect with me:
 
