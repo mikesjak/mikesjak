@@ -2,7 +2,7 @@
 
 ## I'm a Student, Son, and Developer!!
 
-<p align="center"> 
+<p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=mikesjak" alt="mikesjak"/>   
     <a href="https://github.com/mikesjak?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/mikesjak?color=4C1&logo=github"></a>     
     <a href="https://github.com/mikesjak/mikesjak" target="_blank"><img alt="Profile Update" src="https://img.shields.io/github/last-commit/mikesjak/mikesjak?label=Profile%20update&style=fflat-square&color=brightgreen"></a>
